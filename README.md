@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="150"/> YouTube Clone
+# <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="150"/> Clone
 
 This is a YouTube clone application built with React, Tailwind CSS, and the YouTube API. The app allows users to browse, search, and watch YouTube videos with a user-friendly interface.
 
