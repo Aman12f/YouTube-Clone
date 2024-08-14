@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# ![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg) YouTube Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a YouTube clone application built with React, Tailwind CSS, and the YouTube API. The app allows users to browse, search, and watch YouTube videos with a user-friendly interface.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- **Video Browsing:** Explore trending and popular videos on the home feed.
+- **Search Functionality:** Search for videos using specific keywords.
+- **Video Playback:** Watch videos directly within the app with detailed video information.
+- **Related Videos:** Discover related videos while watching.
+- **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
-### `npm start`
+## 🛠️ Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React:** A JavaScript library for building user interfaces.
+- **Tailwind CSS:** A utility-first CSS framework for styling.
+- **YouTube API:** Used to fetch video data from YouTube.
+- **React Router:** For handling navigation between different pages.
+- **Context API:** For state management across the application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Screenshots
 
-### `npm test`
+### Home Page
+![Home](https://github.com/Aman12f/YouTube-Clone/blob/main/src/images/home.png?raw=true)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Navigation Item
+![Navigation Item](https://github.com/Aman12f/YouTube-Clone/blob/main/src/images/navigation_item.png?raw=true)
 
-### `npm run build`
+### Search Query Results
+![Search Query](https://github.com/Aman12f/YouTube-Clone/blob/main/src/images/search_query.png?raw=true)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Video Playback with Related Videos
+![Play Query Result](https://github.com/Aman12f/YouTube-Clone/blob/main/src/images/play_query_result.png?raw=true)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### `npm run eject`
+## 📫 Contact
+If you have any questions or suggestions, feel free to reach out:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Email:** aman.motghare2024@gmail.com
+- **GitHub:** [Aman12f](https://github.com/Aman12f)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
