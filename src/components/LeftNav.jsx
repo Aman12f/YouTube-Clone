@@ -43,7 +43,7 @@ const LeftNav = () => {
                                 }}
                                 className={`${
                                     selectedCategory === item.name
-                                        ? "bg-white/[0.15]"
+                                        ? "bg-white/[0.15]"       
                                         : ""
                                 }`}
                             />
