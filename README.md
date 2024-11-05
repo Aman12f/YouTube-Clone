@@ -1,7 +1,7 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="150"/> Clone
 
 This is a YouTube clone application built with React, Tailwind CSS, and the YouTube API. The app allows users to browse, search, and watch YouTube videos with a user-friendly interface.
-This project is a fully functional and responsive YouTube clone, built using React, Tailwind CSS, and Rapid API to provide a similar interface and functionality to YouTube. You can view the live version of the application here: [YouTube Clone Live Link](https://you-tube-clone-omega-three.vercel.app)
+You can view the live version of the application here: [YouTube Clone Live Link](https://you-tube-clone-omega-three.vercel.app)
 
 ## 🚀 Features
 
